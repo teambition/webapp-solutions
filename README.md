@@ -30,6 +30,7 @@ Web App solutions
 前端框架各种问题:
 
 * [关注前端框架](./cases/mvc.md)
+* [界面元素组件化](./cases/ui-components.md)
 
 静态资源建构:
 
