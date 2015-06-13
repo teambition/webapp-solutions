@@ -18,9 +18,8 @@ Web App solutions
 
 代码组织方式:
 
-* [怎样组织 CSS](./cases/coding-style.md)
-* [CoffeeScript 风格]()
-* [ES 2015 风格]()
+* [怎样组织 CSS](./cases/css-managing.md)
+* [编码风格](./cases/coding-style.md)
 
 页面布局常见问题:
 
