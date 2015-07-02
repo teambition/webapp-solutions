@@ -38,6 +38,10 @@ Web App solutions
 * [Gulp 管理静态资源](./cases/assets-building.md)
 * [Webpack 管理静态资源](./cases/assets-building.md)
 
+图片处理:
+
+* [图片格式转化](./cases/images.md)
+
 ### License
 
 MIT
