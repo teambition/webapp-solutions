@@ -47,6 +47,10 @@ Web App solutions
 * [实时数据通信](./cases/websocket.md)
 * [Promise](./cases/promise.md)
 
+动画效果:
+
+* [加载动画](./cases/loading.md)
+
 ### License
 
 MIT
