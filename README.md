@@ -51,6 +51,10 @@ Web App solutions
 
 * [加载动画](./cases/loading.md)
 
+字体问题:
+
+* [预装字体](./cases/builtin-fonts.md)
+
 ### License
 
 MIT
